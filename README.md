@@ -30,17 +30,11 @@ API Information 🌐
 
 The project utilizes the https://api.exchangerate-api.com to retrieve the latest exchange rates. It uses USD as the base currency and converts to/from other supported currencies.
 
-Prerequisites 📋
-
-Before you run the project, ensure you have Python installed on your system. You can install the necessary dependencies by running:
-
-pip install requests
-
 How to Run the Project 🚀
 
 1. Clone the repository:
 
-git clone https://github.com/Diksha026_lab/currency-converter.git
+git clone https://github.com/Diksha026-lab/currency-converter.git
 
 
 2. Navigate to the project directory:
@@ -48,7 +42,12 @@ git clone https://github.com/Diksha026_lab/currency-converter.git
 cd currency-converter
 
 
-3. Run the Python script:
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+
+4. Run the Python script:
 
 python currency_converter.py
 
@@ -56,6 +55,35 @@ python currency_converter.py
 
 Once the application starts, you will see a graphical window where you can input the amount, select the source currency, and the target currency. Click the "Convert" button to see the conversion result.
 
+Demo 🎥
+
+Below is a screenshot of the application:
+
+
+
+Author 👩‍💻
+
+👋 Hi, I’m @Diksha026-lab, passionate about data science, statistical analysis, and data visualization.
+
+💡 I’m currently diving deep into data analysis with Python, exploring machine learning algorithms, and mastering SQL for efficient data handling.
+
+💬 I’m looking to connect with like-minded individuals for collaborative data projects, sharing insights, and contributing to open-source data initiatives.
+
+📫 How to reach me: thisisdiksha96530@gmail.com or connect with me on LinkedIn.
+
+
+Future Enhancements 🔮
+
+Add more currencies: Extend support for more global currencies.
+
+Custom Base Currency: Allow users to set a custom base currency for conversions.
+
+Historical Data: Show historical exchange rate trends.
+
+
+Contribution Guidelines 🤝
+
+Contributions are welcome! If you'd like to make improvements, feel free to fork the repository, make changes, and submit a pull request.
 
 License 📜
 
