@@ -39,7 +39,7 @@ git clone https://github.com/Diksha026-lab/Currency_Converter.git
 
 2. Navigate to the project directory:
 
-cd currency-converter
+cd Currency_Converter
 
 
 3. Install dependencies:
@@ -49,16 +49,11 @@ pip install -r requirements.txt
 
 4. Run the Python script:
 
-python currency_converter.py
+python Currency_Converter.py
 
 
 
 Once the application starts, you will see a graphical window where you can input the amount, select the source currency, and the target currency. Click the "Convert" button to see the conversion result.
-
-Demo 🎥
-
-Below is a screenshot of the application:
-
 
 
 Author 👩‍💻
