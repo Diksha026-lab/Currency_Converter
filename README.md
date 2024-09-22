@@ -40,7 +40,7 @@ How to Run the Project 🚀
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/Diksha026_lab/currency-converter.git
 
 
 2. Navigate to the project directory:
